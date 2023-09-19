@@ -1,0 +1,90 @@
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\bin\Debug\QuanLyNhaTro.exe.config
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\bin\Debug\QuanLyNhaTro.exe
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\bin\Debug\QuanLyNhaTro.pdb
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.AssemblyReference.cache
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.SuggestedBindingRedirects.cache
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.Properties.Resources.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.GenerateResource.cache
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.CoreCompileInputs.cache
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.exe
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.pdb
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\bin\Debug\EntityFramework.dll
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\bin\Debug\EntityFramework.SqlServer.dll
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\bin\Debug\EntityFramework.xml
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\bin\Debug\EntityFramework.SqlServer.xml
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.CopyComplete
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmChiTietDichVu.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.formHopDongThuePhong.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmNhanVien.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmThietBi.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmTrangChu.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmKhachHang.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmLoading.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmChiTietHopDongThuePhong.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmDangNhap.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmDichVu.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmPhongTro.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmSoThuTien.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmTaiKhoan.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmTrangBi.resources
+D:\2ND YEAR\2ND TERM\LapTrinhWindows\Tài liệu đồ án\QuanLyNhaTro\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmThongTinPhanMem.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\bin\Debug\QuanLyNhaTro.exe.config
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\bin\Debug\QuanLyNhaTro.exe
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\bin\Debug\QuanLyNhaTro.pdb
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\bin\Debug\EntityFramework.dll
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\bin\Debug\EntityFramework.xml
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.AssemblyReference.cache
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.SuggestedBindingRedirects.cache
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmChiTietDichVu.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmChiTietHopDongThuePhong.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmDangNhap.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmDichVu.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.formHopDongThuePhong.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmKhachHang.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmLoading.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmNhanVien.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmPhongTro.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmSoThuTien.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmTaiKhoan.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmThietBi.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmTrangBi.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmTrangChu.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.Properties.Resources.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmThongTinPhanMem.resources
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.GenerateResource.cache
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.CoreCompileInputs.cache
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.CopyComplete
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.exe
+D:\Tài liệu học\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.pdb
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\bin\Debug\QuanLyNhaTro.exe.config
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\bin\Debug\QuanLyNhaTro.exe
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\bin\Debug\QuanLyNhaTro.pdb
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\bin\Debug\EntityFramework.dll
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\bin\Debug\EntityFramework.SqlServer.dll
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\bin\Debug\EntityFramework.xml
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\bin\Debug\EntityFramework.SqlServer.xml
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.AssemblyReference.cache
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.SuggestedBindingRedirects.cache
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmChiTietDichVu.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmChiTietHopDongThuePhong.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmDangNhap.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmDichVu.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.formHopDongThuePhong.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmKhachHang.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmLoading.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmNhanVien.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmPhongTro.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmSoThuTien.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmTaiKhoan.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmThietBi.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmTrangBi.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmTrangChu.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.Properties.Resources.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.frmThongTinPhanMem.resources
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.GenerateResource.cache
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.CoreCompileInputs.cache
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.csproj.CopyComplete
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.exe
+D:\TAILIEU\WINDOWS_BÁO CÁO CUỐI KỲ\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy-20220624T113308Z-001\DoAnQuanLyNhaTro_NguyenVanThuan_PhanQuanHuy\QuanLyNhaTro\obj\Debug\QuanLyNhaTro.pdb

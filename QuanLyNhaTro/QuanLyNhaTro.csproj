@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{12D53E14-3274-4C44-B8F4-515D67F6195C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyNhaTro</RootNamespace>
+    <AssemblyName>QuanLyNhaTro</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessLogicLayer\BusinessLayerTaiKhoan.cs" />
+    <Compile Include="PresentationLayer\formLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formLoading.Designer.cs">
+      <DependentUpon>formLoading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\formTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formTaiKhoan.Designer.cs">
+      <DependentUpon>formTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models - Entities\BangGia.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerBangGia.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerChiTietHD.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerChiTietSDDV.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerDichVu.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerHopDongThuePhong.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerKhachHang.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerLoaiDichVu.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerLoaiKhachHang.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerLoaiPhong.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerLoaiThietBi.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerNhanVien.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerPhongTro.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerSoThuTien.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerThietBi.cs" />
+    <Compile Include="BusinessLogicLayer\BusinessLayerTrangBi.cs" />
+    <Compile Include="PresentationLayer\formTrangBi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formTrangBi.Designer.cs">
+      <DependentUpon>formTrangBi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models - Entities\SubClass_ChiTietDichVu_ChiTietHD.cs" />
+    <Compile Include="Models - Entities\ChiTietHopDongThuePhong.cs" />
+    <Compile Include="Models - Entities\ChiTietSuDungDV.cs" />
+    <Compile Include="Models - Entities\DichVu.cs" />
+    <Compile Include="PresentationLayer\formChiTietDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formChiTietDichVu.Designer.cs">
+      <DependentUpon>formChiTietDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\formDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formDangNhap.Designer.cs">
+      <DependentUpon>formDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\formChiTietHopDongThuePhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formChiTietHopDongThuePhong.Designer.cs">
+      <DependentUpon>formChiTietHopDongThuePhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\formDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formDichVu.Designer.cs">
+      <DependentUpon>formDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\formHopDongThuePhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formHopDongThuePhong.Designer.cs">
+      <DependentUpon>formHopDongThuePhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\formKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formKhachHang.Designer.cs">
+      <DependentUpon>formKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\formNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formNhanVien.Designer.cs">
+      <DependentUpon>formNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\formPhongTro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formPhongTro.Designer.cs">
+      <DependentUpon>formPhongTro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\formSoThuTien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formSoThuTien.Designer.cs">
+      <DependentUpon>formSoThuTien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\formThietBi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formThietBi.Designer.cs">
+      <DependentUpon>formThietBi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models - Entities\HopDongThuePhong.cs" />
+    <Compile Include="Models - Entities\KhachHang.cs" />
+    <Compile Include="Models - Entities\LoaiDichVu.cs" />
+    <Compile Include="Models - Entities\LoaiKhachHang.cs" />
+    <Compile Include="Models - Entities\LoaiPhong.cs" />
+    <Compile Include="Models - Entities\LoaiThietBi.cs" />
+    <Compile Include="Models - Entities\NhanVien.cs" />
+    <Compile Include="Models - Entities\PhongTro.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PresentationLayer\formTrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formTrangChu.Designer.cs">
+      <DependentUpon>formTrangChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Models - Entities\QuanLyNhaTroDataModel.cs" />
+    <Compile Include="Models - Entities\SoThuTien.cs" />
+    <Compile Include="Models - Entities\SubClass_Phong_Khach_ChiTietHD.cs" />
+    <Compile Include="Models - Entities\TaiKhoan.cs" />
+    <Compile Include="Models - Entities\ThietBi.cs" />
+    <Compile Include="PresentationLayer\formThongTinPhanMem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\formThongTinPhanMem.Designer.cs">
+      <DependentUpon>formThongTinPhanMem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models - Entities\TrangBi.cs" />
+    <EmbeddedResource Include="PresentationLayer\formChiTietDichVu.resx">
+      <DependentUpon>formChiTietDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\formChiTietHopDongThuePhong.resx">
+      <DependentUpon>formChiTietHopDongThuePhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\formDangNhap.resx">
+      <DependentUpon>formDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\formDichVu.resx">
+      <DependentUpon>formDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\formHopDongThuePhong.resx">
+      <DependentUpon>formHopDongThuePhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\formKhachHang.resx">
+      <DependentUpon>formKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\formLoading.resx">
+      <DependentUpon>formLoading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\formNhanVien.resx">
+      <DependentUpon>formNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\formPhongTro.resx">
+      <DependentUpon>formPhongTro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\formSoThuTien.resx">
+      <DependentUpon>formSoThuTien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\formTaiKhoan.resx">
+      <DependentUpon>formTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\formThietBi.resx">
+      <DependentUpon>formThietBi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\formTrangBi.resx">
+      <DependentUpon>formTrangBi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\formTrangChu.resx">
+      <DependentUpon>formTrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\formThongTinPhanMem.resx">
+      <DependentUpon>formThongTinPhanMem.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhanvien.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1464180.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhanvien1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-csharp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dichvu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hopdong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\khachhang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhanvien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phongtro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dangnhap.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\THlogo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
